@@ -11,7 +11,7 @@ Fonctionnalités:
 ✅ Affichage des détails d'un Pokémon lorsqu'il est sélectionné
 ✅ Gestion de l'état avec useState et useEffect
 ✅ Mise à jour dynamique du titre de la page selon le Pokémon sélectionné
-✅ Optimisation du fetch avec AbortController pour éviter les appels multiples
+✅ Optimisation du fetch avec AbortController pour éviter les appels multiples!
 
 
 Technologies utilisées:
@@ -20,3 +20,5 @@ Technologies utilisées:
   - Hooks React : useState, useEffect
   - API Fetch
   - CSS pour le style
+
+![Capture d'écran 2025-01-31 215035](https://github.com/user-attachments/assets/6add9bb6-ac45-4016-ad92-c6738bc234dd)
